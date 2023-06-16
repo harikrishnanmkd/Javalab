@@ -1,0 +1,55 @@
+--------CREATE NEW STRING USING NEW---------
+
+New String from char[] using new :live without fear
+
+New string of corresponding ascii value from asciis[] using new :ABCDEF
+
+string 1 :good
+string 2 :EVENING
+
+length of string 'good' :4
+
+good to uppercase :GOOD
+
+EVENING to lowercase :evening
+
+--------CONCATENATION---------
+
+using concat() :good EVENING
+
+using '+' operator :good EVENING
+
+------CHARACTER EXTRACTION-----
+
+character at 3rd position :d
+
+charcater between 2 and 4 :od
+
+-----CHARACTER COMPARISON------
+
+string 1 :welcome
+string 2 :WELCOME
+
+welcome equals WELCOME :false
+
+welcome equals IgnoreCase WELCOME :true
+
+welcome compare to WELCOME :32
+
+welcome starts with w  :true
+
+-----SEARCH SUBSTRINGS----
+
+string  :someone told me,You have attractive face
+
+index of 'attractive' word  :25
+
+substring :You have attractive face
+
+------STRING MODIFICATION-----
+
+replace 'face' to 'eyes' :someone told me,You have attractive eyes
+
+------USING VALUE OF------
+
+35.87 is converted to string 35.87
